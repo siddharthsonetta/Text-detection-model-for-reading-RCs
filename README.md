@@ -1,0 +1,2 @@
+# Text-detection-model-for-reading-RCs
+Developed a text detection model for reading RCs using OpenCV and pytesseract packages. The model was able to capture the following fields on the RC: License plate number or Regn number, VIN number or Chassis number (typically 17 digit long), Name, Engine number, Registration date, Mfg. date. Created an excel sheet for showing what was the text output for each image.
