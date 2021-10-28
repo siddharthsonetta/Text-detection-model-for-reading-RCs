@@ -2,7 +2,6 @@
 """
 Created on Tue May  5 16:40:25 2020
 
-@author: Sunit
 """
 
 import cv2
